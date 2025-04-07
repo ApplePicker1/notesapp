@@ -54,9 +54,6 @@ body {
     color: var(--primary-color);
 }
 
-.logo a {
-    text-decoration: none;
-}
 
 .nav-links {
     display: flex;
