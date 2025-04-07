@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(7)
 
   return (
     <>
@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React + Hello!</h1>
+      <h1>Ketel AI's mission is to make implementation better, faster, and easier.</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
